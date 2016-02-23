@@ -15,7 +15,7 @@
     width: 100%;
 
     #main_content{
-      margin-right: 300px;
+      margin-right: 300px + ($sidebar-width - 242);
     }
   }
 
